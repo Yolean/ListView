@@ -1,6 +1,6 @@
 var chai = require('chai');
 chai.should();
-var sinon = require('sinon');
+var mocks = require('simple-mock');
 
 describe('ItemView', function () {
 

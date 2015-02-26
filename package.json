@@ -1,15 +1,15 @@
 {
-  "name": "ListView",
-  "version": "1.0.0",
+  "name": "listview",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "chai": "^2.1.0",
-    "sinon": "^1.12.2",
     "backbone": "^1.1.2",
+    "chai": "^2.1.0",
+    "simple-mock": "^0.2.8",
     "underscore": "^1.8.2"
   },
   "devDependencies": {
