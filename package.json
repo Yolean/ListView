@@ -1,0 +1,31 @@
+{
+  "name": "ListView",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.1.0",
+    "sinon": "^1.12.2",
+    "backbone": "^1.1.2",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yolean/ListView.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yolean/ListView/issues"
+  },
+  "homepage": "https://github.com/Yolean/ListView"
+}
